@@ -19,7 +19,7 @@ We focus on developing projects that showcase the intersection of technology and
 
 ## Get in Touch
 
-- 📧 Email: contact@trainofthought.pp.ua	
+- 📧 Email: team.trainofthought@gmail.com
 - 🐦 Telegram: [@mexicancat228 (Tech lead)](https://mexicancat228.t.me)
 
 ## How to Contribute
