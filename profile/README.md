@@ -1,7 +1,5 @@
 # Train of Thought - IoT Team
 
-![logo](https://github.com/Train-of-thoughts/.github/assets/84918090/b3ea3ac0-4961-4f60-a130-ab4f7779b5a8)
-
 
 Welcome to the GitHub profile of Train of Thought, an IT team consisting of enthusiastic students from the Internet of Things Bachelor's program at Lviv Polytechnic. We are passionate about exploring the vast possibilities of IoT and applying our knowledge to real-world projects.
 
